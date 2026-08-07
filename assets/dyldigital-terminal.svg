@@ -1,0 +1,59 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">DylDigital terminal banner</title>
+  <desc id="desc">A dark terminal-style banner for Dylan Malik / DylDigital with system information and ASCII-inspired lettering.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#050816" />
+      <stop offset="0.55" stop-color="#0b1220" />
+      <stop offset="1" stop-color="#0f172a" />
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(960 90) rotate(135) scale(520 360)">
+      <stop stop-color="#38bdf8" stop-opacity="0.34" />
+      <stop offset="0.45" stop-color="#2563eb" stop-opacity="0.12" />
+      <stop offset="1" stop-color="#0f172a" stop-opacity="0" />
+    </radialGradient>
+    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="24" stdDeviation="24" flood-color="#000" flood-opacity="0.42" />
+    </filter>
+    <style>
+      .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; }
+      .sans { font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; }
+    </style>
+  </defs>
+  <rect width="1200" height="420" rx="28" fill="url(#bg)" />
+  <rect width="1200" height="420" rx="28" fill="url(#glow)" />
+  <g opacity="0.12">
+    <path d="M0 84H1200M0 168H1200M0 252H1200M0 336H1200" stroke="#94a3b8" />
+    <path d="M120 0V420M240 0V420M360 0V420M480 0V420M600 0V420M720 0V420M840 0V420M960 0V420M1080 0V420" stroke="#94a3b8" />
+  </g>
+  <rect x="64" y="54" width="1072" height="312" rx="18" fill="#020617" fill-opacity="0.86" stroke="#1e293b" filter="url(#softShadow)" />
+  <rect x="64" y="54" width="1072" height="44" rx="18" fill="#111827" />
+  <circle cx="94" cy="76" r="7" fill="#ef4444" />
+  <circle cx="118" cy="76" r="7" fill="#f59e0b" />
+  <circle cx="142" cy="76" r="7" fill="#22c55e" />
+  <text x="176" y="81" class="mono" fill="#94a3b8" font-size="15">dylan@dyldigital: ~/agentic-systems</text>
+
+  <text x="104" y="145" class="mono" fill="#38bdf8" font-size="20">$ whoami</text>
+  <text x="104" y="186" class="sans" fill="#f8fafc" font-size="46" font-weight="800">Dylan Malik</text>
+  <text x="104" y="224" class="sans" fill="#93c5fd" font-size="24" font-weight="650">DylDigital</text>
+  <text x="104" y="266" class="sans" fill="#cbd5e1" font-size="22">Building evolving agentic systems for creative work,</text>
+  <text x="104" y="296" class="sans" fill="#cbd5e1" font-size="22">automation, and a digital future.</text>
+  <text x="104" y="334" class="mono" fill="#22c55e" font-size="17">status: building in public · evidence-first · human-in-the-loop</text>
+
+  <g transform="translate(706 126)">
+    <text class="mono" fill="#60a5fa" font-size="17">dylfetch</text>
+    <text y="34" class="mono" fill="#e2e8f0" font-size="16">OS:        GitHub / Linux / Hermes</text>
+    <text y="64" class="mono" fill="#e2e8f0" font-size="16">Focus:     AI agents + automation</text>
+    <text y="94" class="mono" fill="#e2e8f0" font-size="16">Stack:     Python · TS · Bash</text>
+    <text y="124" class="mono" fill="#e2e8f0" font-size="16">Mode:      build → test → document</text>
+    <text y="154" class="mono" fill="#e2e8f0" font-size="16">Project:   Hermes Valkyrie</text>
+    <g transform="translate(0 186)">
+      <rect width="28" height="28" rx="6" fill="#2563eb" />
+      <rect x="38" width="28" height="28" rx="6" fill="#38bdf8" />
+      <rect x="76" width="28" height="28" rx="6" fill="#22c55e" />
+      <rect x="114" width="28" height="28" rx="6" fill="#a855f7" />
+      <rect x="152" width="28" height="28" rx="6" fill="#f97316" />
+      <text x="198" y="20" class="mono" fill="#94a3b8" font-size="15">agentic systems for a digital future</text>
+    </g>
+  </g>
+</svg>
