@@ -14,35 +14,34 @@
 
 ---
 
-## ~/about
+## What I'm building
 
-I build **agentic systems**, AI workflows, automation tools, and creative digital infrastructure. My work sits at the intersection of practical AI, developer operations, creative media systems, and human-in-the-loop automation.
+I'm building **DylDigital** as the public home for my work with AI systems, automation, creative tools, and digital infrastructure.
 
-The goal behind **DylDigital** is simple: turn AI from impressive demos into systems people can actually use, inspect, and improve.
+The focus is not AI hype. It's the actual building process: what I'm testing, what works, what breaks, and what can become useful enough to run in a real workflow.
 
 ```txt
-identity      Dylan Malik / DylDigital
-focus         agentic systems · creative automation · digital infrastructure
-mode          build in public · test with evidence · document what works
-north_star    useful AI systems for real creative and operational workflows
+current lane   AI agents · automation · creative systems
+working style  build in public · document the process · show proof
+proof layer    repos · demos · logs · writeups · working systems
 ```
 
-## ~/current-focus
+## Current focus
 
-- Designing evolving AI-agent workflows that improve through real use
-- Building terminal-first infrastructure for Claude Code, Codex, and Hermes-launched agents
-- Creating automation systems for media analysis, content workflows, and digital operations
-- Turning experiments into reusable tools, docs, and public proof artifacts
+- AI-agent workflows that can use tools, keep context, and hand off work cleanly
+- Automation systems for content, media analysis, research, and operations
+- Terminal-first workflows for Claude Code, Codex, Hermes, and local agent runs
+- Turning rough experiments into public builds people can inspect and learn from
 
-## ~/featured-build
+## Featured build
 
 ### [Hermes Valkyrie](https://github.com/DylDigitals/hermes-valkyrie)
 
-Portable loadout and lifecycle management for Hermes-launched Claude Code and Codex terminal runs.
+A portable loadout system for launching Claude Code and Codex through Hermes-managed terminal workflows.
 
-It focuses on repeatable agent launches, visible terminal sessions, structured closeouts, and safer human-in-the-loop coding workflows.
+It's built around visible agent sessions, repeatable launches, structured closeouts, and safer human-in-the-loop coding work.
 
-## ~/stack
+## Stack I'm working with
 
 <p>
   <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
@@ -55,14 +54,13 @@ It focuses on repeatable agent launches, visible terminal sessions, structured c
   <img src="https://img.shields.io/badge/AI_Agents-111827?style=for-the-badge&logo=openai&logoColor=white" alt="AI Agents" />
 </p>
 
-## ~/operating-principles
+## How I want this page to work
 
-- Build systems that are observable, recoverable, and useful beyond the demo
-- Prefer evidence, logs, and real execution over hype
-- Keep humans in the loop where judgment matters
-- Make automation understandable enough to trust and flexible enough to evolve
+This profile should act like the proof layer behind DylDigital.
 
-## ~/github-signal
+Social posts can explain the ideas. GitHub should show the builds: the repos, demos, notes, commits, rough edges, and working pieces behind the brand.
+
+## GitHub signal
 
 <div align="center">
 
@@ -73,21 +71,19 @@ It focuses on repeatable agent launches, visible terminal sessions, structured c
 
 </div>
 
-## ~/what-to-expect
+## What to expect
 
-Public projects, build notes, workflow breakdowns, and experiments around:
-
-- AI agents and agentic software
-- Creative automation and media systems
-- Developer tooling and terminal workflows
-- Practical digital infrastructure
-- Lessons from building with AI in the real world
+- Build logs and experiments
+- AI-agent workflow notes
+- Creative automation systems
+- Media-analysis and content-operation tools
+- Honest notes on what is useful, what is fragile, and what needs more work
 
 ---
 
 <div align="center">
 
-**DylDigital** — agentic systems for creative work, automation, and a digital future.
+**DylDigital** — building in public, one useful system at a time.
 
 <!-- PROFILE_REFRESH: 2026-08-07 -->
 
