@@ -1,71 +1,75 @@
-# DylDigital GitHub Profile Notes
+<div align="center">
 
-Private source notes for the DylDigital GitHub profile and brand presentation.
+<img src="./assets/dyldigital-terminal.svg" alt="DylDigital terminal banner" width="100%" />
 
-This repo is **not** meant to be a public explanation repo. The public profile itself should carry the brand: bio, pinned repos, project descriptions, links, and visible build activity.
+# Dylan Malik · DylDigital
 
-## Current public bio
+**Building evolving agentic systems for creative work, automation, and a digital future.**
 
-> Building evolving agentic systems for creative work, automation, and a digital future.
+</div>
 
-## Profile direction
+---
 
-DylDigital should feel like a real builder/operator profile, not an AI-generated brand page.
+I'm building DylDigital as the public home for the AI systems, automation workflows, and creative tools I'm testing in real time.
 
-The voice should be direct:
+The goal is simple: build useful systems, show the work, and document what actually holds up outside the demo.
 
-- what I'm building
-- what I'm testing
-- what works
-- what breaks
-- what proof exists
-- what people can follow along with
+```txt
+now building   AI agents · workflow automation · creative systems
+how I work     build in public · test with proof · document the rough edges
+proof lives    repos · demos · logs · writeups · working tools
+```
 
-Avoid copy that sounds like a startup slogan, agency pitch, or generic AI consultant bio.
+## Current focus
 
-## GitHub's role in the brand
+- AI-agent workflows that can use real tools, keep context, and hand off work cleanly
+- Automation systems for content, media analysis, research, and operations
+- Terminal-first workflows for Claude Code, Codex, Hermes, and local agent runs
+- Turning experiments into public builds people can inspect, run, and learn from
 
-GitHub should be the proof layer.
+## Featured build
 
-The public profile should point people toward:
+### [Hermes Valkyrie](https://github.com/DylDigitals/hermes-valkyrie)
 
-- active builds
-- pinned proof repos
-- demos / screenshots / logs when available
-- project READMEs that explain the work clearly
-- real commits and public progress
+A portable loadout system for launching Claude Code and Codex through Hermes-managed terminal workflows.
 
-## Current profile components to keep improving
+It is built around visible agent sessions, repeatable launches, structured closeouts, and safer human-in-the-loop coding work.
 
-- Account bio: short positioning line
-- Avatar and banner: should match DylDigital visual identity
-- Pinned repos: only real proof projects, not profile/admin repos
-- Repo descriptions: plain-language explanation of what each project does
-- Public project READMEs: natural, useful, not over-polished
-- Social/link hub: add once the accounts and content plan are ready
+## What this profile is for
 
-## Current positioning line
+Social posts are where I explain the ideas. GitHub is where I want the proof to live: the repos, commits, docs, demos, experiments, and working pieces behind DylDigital.
 
-Building evolving agentic systems for creative work, automation, and a digital future.
+If you are here early, expect rough builds and fast iteration. The brand is being built in public alongside the systems.
 
-## Better natural phrasing options for future bios
+## Stack I'm working with
 
-Short:
+<p>
+  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Bash-111827?style=for-the-badge&logo=gnubash&logoColor=4EAA25" alt="Bash" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-111827?style=for-the-badge&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
+  <img src="https://img.shields.io/badge/AI_Agents-111827?style=for-the-badge&logo=openai&logoColor=white" alt="AI Agents" />
+</p>
 
-> Building AI systems, automation workflows, and creative tools in public.
+## Follow the build
 
-More specific:
+I'm using this account to document:
 
-> Building DylDigital in public — AI agents, automation workflows, creative systems, and the proof behind them.
+- build logs and experiments
+- AI-agent workflow notes
+- creative automation systems
+- media-analysis and content-operation tools
+- what is useful, what is fragile, and what needs more work
 
-Builder-first:
+---
 
-> Testing and building AI workflows, automation tools, and creative systems. Sharing what works and what breaks.
+<div align="center">
 
-## Next profile work
+**DylDigital** — building in public, one useful system at a time.
 
-1. Remove any repo or text that makes DylDigital look like a documentation-only brand.
-2. Pin only the strongest public proof repo(s).
-3. Improve `hermes-valkyrie` description and README so it is understandable to a new visitor.
-4. Add social links only after the bios/accounts feel natural.
-5. Build the first content plan from real projects and build logs, not generic AI topics.
+<!-- PROFILE_REFRESH: 2026-08-07 -->
+
+</div>
