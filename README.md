@@ -10,22 +10,15 @@
 
 ---
 
-I'm building DylDigital as the public home for the AI systems, automation workflows, and creative tools I'm testing in real time.
+I’m building DylDigital as my public home for the AI systems, automation workflows, and creative tools I’m testing in real time. The goal is simple:
 
-The goal is simple: build useful systems, show the work, and document what actually holds up outside the demo.
+This platform is to build and share useful systems, and document what actually holds up outside the demo.
 
 ```txt
-now building   AI agents · workflow automation · creative systems
-how I work     build in public · test with proof · document the rough edges
-proof lives    repos · demos · logs · writeups · working tools
+Now building: AI agents · workflow automation · creative systems
+How I work: build in public · test with proof · document the rough edges
+Proof lives in: repos · demos · logs · writeups · working tools
 ```
-
-## Current focus
-
-- AI-agent workflows that can use real tools, keep context, and hand off work cleanly
-- Automation systems for content, media analysis, research, and operations
-- Terminal-first workflows for Claude Code, Codex, Hermes, and local agent runs
-- Turning experiments into public builds people can inspect, run, and learn from
 
 ## Featured build
 
@@ -35,34 +28,22 @@ A portable loadout system for launching Claude Code and Codex through Hermes-man
 
 It is built around visible agent sessions, repeatable launches, structured closeouts, and safer human-in-the-loop coding work.
 
-## What this profile is for
+## Stack I’m working with
 
-Social posts are where I explain the ideas. GitHub is where I want the proof to live: the repos, commits, docs, demos, experiments, and working pieces behind DylDigital.
+Claude Code · Hermes Agent · Codex · Python · TypeScript · Node.js · Rust · Bash · Linux · Docker · GitHub Actions
 
-If you are here early, expect rough builds and fast iteration. The brand is being built in public alongside the systems.
+## Follow the Work
 
-## Stack I'm working with
+I’m using this account to build and store my work. Reach out to me and check out my other social media channels.
 
-<p>
-  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Bash-111827?style=for-the-badge&logo=gnubash&logoColor=4EAA25" alt="Bash" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-111827?style=for-the-badge&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
-  <img src="https://img.shields.io/badge/AI_Agents-111827?style=for-the-badge&logo=openai&logoColor=white" alt="AI Agents" />
-</p>
+Social links coming soon:
 
-## Follow the build
-
-I'm using this account to document:
-
-- build logs and experiments
-- AI-agent workflow notes
-- creative automation systems
-- media-analysis and content-operation tools
-- what is useful, what is fragile, and what needs more work
+- Website / link hub: coming soon
+- X / Twitter: coming soon
+- YouTube: coming soon
+- TikTok: coming soon
+- Instagram: coming soon
+- LinkedIn: coming soon
 
 ---
 
