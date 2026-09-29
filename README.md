@@ -51,6 +51,6 @@ Social links coming soon:
 
 **DylDigital** — building in public, one useful system at a time.
 
-<!-- PROFILE_REFRESH: 2026-09-28 -->
+<!-- PROFILE_REFRESH: 2026-09-29 -->
 
 </div>
